@@ -1,0 +1,5 @@
+torch==1.2.0
+torchvision==0.4.0
+kornia==0.1.3.post2
+opencv-python==3.4.4
+visdom>=0.1.8.3
