@@ -84,5 +84,5 @@ This software is freely available for non-profit non-commercial use, and may be 
 
 [1]: https://arxiv.org/abs/2012.11803
 [2]: https://vision.cs.stonybrook.edu/~bingyao/pub/Neural-STE_supp
-[3]: https://bingyaohuang.github.com/pub/Neural-STE/data
+[3]: https://bingyaohuang.github.io/pub/Neural-STE/data
 
