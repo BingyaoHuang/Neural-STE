@@ -16,4 +16,4 @@ This folder should contain Neural-STE dataset. You can download and extract our 
 We thank the anonymous reviewers for valuable and inspiring comments and suggestions.
 We thank the authors of the colorful textured sampling images. 
 
-[1]: https://bingyaohuang.github.com/pub/Neural-STE/data
+[1]: https://bingyaohuang.github.io/pub/Neural-STE/data
